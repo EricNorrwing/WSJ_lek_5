@@ -1,8 +1,6 @@
 package com.ericnorrwing.wsj_lek_5.controller;
 
 import com.ericnorrwing.wsj_lek_5.model.User;
-import org.apache.coyote.Request;
-import org.springframework.http.HttpStatusCode;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
